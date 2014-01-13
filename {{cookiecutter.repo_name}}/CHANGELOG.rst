@@ -1,7 +1,7 @@
 .. :changelog:
 
-History
--------
+CHANGELOG
+---------
 
 {{ cookiecutter.version }} ({{ cookiecutter.release_date }})
 ++++++++++++++++++
